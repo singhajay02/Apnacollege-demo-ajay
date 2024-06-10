@@ -1,2 +1,3 @@
 # Apnacollege-demo-ajay
-This is demo Repository
+This is a demo Repository
+Author - Ajay Singh
